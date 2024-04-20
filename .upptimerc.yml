@@ -7,6 +7,8 @@ sites:
     url: https://floriscornel.nl
   - name: Wedding Photos
     url: https://photos.asami-floris.com
+  - name: Speedtest
+    url: https://speedtest.floriscornel.nl
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
