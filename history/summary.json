@@ -22,35 +22,39 @@
     "url": "https://photos.asami-floris.com",
     "icon": "https://icons.duckduckgo.com/ip3/photos.asami-floris.com.ico",
     "slug": "wedding-photos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 608,
-    "timeDay": 729,
-    "timeWeek": 608,
-    "timeMonth": 608,
-    "timeYear": 608,
-    "dailyMinutesDown": {}
+    "time": 552,
+    "timeDay": 418,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
+    "dailyMinutesDown": {
+      "2024-04-25": 0
+    }
   },
   {
     "name": "Speedtest",
     "url": "https://speedtest.floriscornel.nl",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.floriscornel.nl.ico",
     "slug": "speedtest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 543,
-    "timeWeek": 431,
-    "timeMonth": 431,
-    "timeYear": 431,
-    "dailyMinutesDown": {}
+    "time": 387,
+    "timeDay": 332,
+    "timeWeek": 387,
+    "timeMonth": 387,
+    "timeYear": 387,
+    "dailyMinutesDown": {
+      "2024-04-25": 0
+    }
   }
 ]
