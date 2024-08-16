@@ -1,7 +1,7 @@
 url: https://speedtest.floriscornel.nl
-status: up
-code: 200
-responseTime: 351
-lastUpdated: 2024-08-15T23:09:16.711Z
+status: down
+code: 500
+responseTime: 52
+lastUpdated: 2024-08-16T07:10:52.536Z
 startTime: 2024-04-20T12:20:07.885Z
 generator: Upptime <https://github.com/upptime/upptime>
